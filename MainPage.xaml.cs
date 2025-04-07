@@ -1,6 +1,5 @@
 ﻿using MauiAppTempoAgora.Models;
 using MauiAppTempoAgora.Service;
-using System.Threading.Tasks;
 
 namespace MauiAppTempoAgora
 {
